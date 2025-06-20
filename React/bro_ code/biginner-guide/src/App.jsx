@@ -12,25 +12,36 @@ import Button from "./vid3-modules/Button.jsx";
 //vid4
 import Student from "./vid4-props/Student.jsx";
 
+
+//vid5
+import UserGreeting from "./vid5-cond/userGreetings.jsx";
+
+
 function App() {
 
   return (
     <>
       <Header />
+      // vid-5
+      <UserGreeting isLoggedIn={true} username="TheWallFacer"/>
+      
 
+      // vid-2
       <div>
         <Card />
         <Card />
         <Card />
         <Card />
       </div>
-      
+
+
+      // vid-3
       <Button />
       <Button />
       <Button />
       <Button />
 
-      // props
+      // vid4
       <Student name="Spongebob" age={13} isStudent={true} /> 
       <Student name="Patrick" age={23} isStudent={false} />
       <Student name="Logan" age={21} isStudent={true} />
@@ -38,7 +49,7 @@ function App() {
       <Student  isStudent={true} />
       <Student name="Aryan" age={20} isStudent={false} />
 
-
+      // vid1
       <div>
         <Food />
         <Food />
