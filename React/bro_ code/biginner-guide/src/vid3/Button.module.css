@@ -1,0 +1,9 @@
+/* Modules styling, great for individual compnent with a lot of styles*/
+.button {
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
