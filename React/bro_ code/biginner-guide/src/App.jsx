@@ -1,5 +1,7 @@
-import Header from "./Header.jsx";
-import Food from "./Food.jsx";
+import Header from "./vid1/Header.jsx";
+import Footer from "./vid1/Footer.jsx";
+import Food from "./vid1/Food.jsx";
+import Card from './Card.jsx'
 
 
 function App() {
@@ -7,6 +9,12 @@ function App() {
   return (
     <>
       <Header />
+
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      
 
       <Food />
       <Food />
