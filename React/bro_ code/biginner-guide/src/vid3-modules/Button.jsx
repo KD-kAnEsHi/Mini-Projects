@@ -8,7 +8,7 @@ function Button() {
         color: "white",
         padding: "10px 20px",
         borderRadius: "5px",
-        border: "none",
+        border: "20px",
         cursor: "pointer",
     }
 
