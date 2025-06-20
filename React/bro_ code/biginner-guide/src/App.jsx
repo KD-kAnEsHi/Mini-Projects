@@ -12,9 +12,11 @@ import Button from "./vid3-modules/Button.jsx";
 //vid4
 import Student from "./vid4-props/Student.jsx";
 
-
 //vid5
 import UserGreeting from "./vid5-cond/userGreetings.jsx";
+
+//vid6
+import List from "./vid6-list/List.jsx"
 
 
 function App() {
@@ -57,6 +59,10 @@ function App() {
         <Food />
         <Food />
       </div>
+
+      // vid6
+      <List/>
+
 
       <Footer />
     </>
