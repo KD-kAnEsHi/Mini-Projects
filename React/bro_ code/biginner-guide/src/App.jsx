@@ -22,7 +22,8 @@ import List from "./vid6-list/List.jsx"
 import Click from "./vid7-event/Click.jsx";
 import ProfilePicture from "./vid7-event/profilePic.jsx";
 
-
+//vid9
+import MyComponent from "./vid9-onchange/MyComponents.jsx";
 
 
 function App() {
@@ -73,6 +74,9 @@ function App() {
       <Click />
       <ProfilePicture />
       <ProfilePicture />
+
+      // vid9
+      <MyComponent />
 
 
       <Footer />
