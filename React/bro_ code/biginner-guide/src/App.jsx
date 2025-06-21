@@ -18,6 +18,12 @@ import UserGreeting from "./vid5-cond/userGreetings.jsx";
 //vid6
 import List from "./vid6-list/List.jsx"
 
+//vi7
+import Click from "./vid7-event/Click.jsx";
+import ProfilePicture from "./vid7-event/profilePic.jsx";
+
+
+
 
 function App() {
 
@@ -62,6 +68,11 @@ function App() {
 
       // vid6
       <List/>
+
+      //vid7
+      <Click />
+      <ProfilePicture />
+      <ProfilePicture />
 
 
       <Footer />
