@@ -1,0 +1,23 @@
+
+{{entire document / page}}
+hey im struggling to understand this sentence and example
+{{piece of information youre struggling with here}}
+can you break it down step by step and super simply
+
+
+
+alias
+title
+description
+deprecated
+Validations specific for strings:
+
+min_length
+max_length
+pattern
+
+
+
+
+gt: greater than
+le: less than or equal
