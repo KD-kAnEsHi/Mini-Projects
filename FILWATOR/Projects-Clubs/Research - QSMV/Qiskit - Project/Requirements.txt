@@ -1,0 +1,14 @@
+
+- conda env
+    > install pip in conda env : conda install pip
+    > install jupyternotebook : cona install jupyernotebook
+    > install Python : Specifically pythong 3.8+
+- Pip Installs
+    > Install qiskit : Pip install qiskit
+    > install python : pip install python=3.12
+    > Install matplotlin : pip install patplotlib
+    > IBM run time : pip install qiskit-ibm-runtime     
+    >               : pip install pylatexenc
+    > Installing jupyernotebook: pip install jupyter
+    > IBM visualization: pip install 'qiskit[visualization]'   | visualization tools for Q-Gates and jupyternotebook
+

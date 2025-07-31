@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kazangue/CS-Files/School-Projects/CS-3377/CS-3377-Project-3/client'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000030CC, symSize: 0x1FC }
+  - { offsetInCU: 0x217, offset: 0x217, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000030CC, symSize: 0x1FC }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: _Usage, symObjAddr: 0x1FC, symBinAddr: 0x1000032C8, symSize: 0x30 }
+  - { offsetInCU: 0x2C6, offset: 0x2C6, size: 0x8, addend: 0x0, symName: _LookupName, symObjAddr: 0x22C, symBinAddr: 0x1000032F8, symSize: 0x1D8 }
+  - { offsetInCU: 0x37A, offset: 0x37A, size: 0x8, addend: 0x0, symName: _Connect, symObjAddr: 0x404, symBinAddr: 0x1000034D0, symSize: 0xE8 }
+  - { offsetInCU: 0x3DA, offset: 0x3DA, size: 0x8, addend: 0x0, symName: _handleServer, symObjAddr: 0x4EC, symBinAddr: 0x1000035B8, symSize: 0x5F0 }
+  - { offsetInCU: 0x4EB, offset: 0x4EB, size: 0x8, addend: 0x0, symName: __OSSwapInt16, symObjAddr: 0xADC, symBinAddr: 0x100003BA8, symSize: 0x24 }
+...
